@@ -1,0 +1,18 @@
+D:\DA1\DA1\obj\Debug\DA1.csproj.AssemblyReference.cache
+D:\DA1\DA1\obj\Debug\DA1.csproj.CoreCompileInputs.cache
+D:\DA1\DA1\bin\Debug\DA1.exe
+D:\DA1\DA1\bin\Debug\DA1.pdb
+D:\DA1\DA1\obj\Debug\DA1.exe
+D:\DA1\DA1\obj\Debug\DA1.pdb
+D:\SQL2019\DA1\DA1\obj\Debug\DA1.csproj.AssemblyReference.cache
+D:\SQL2019\DA1\DA1\obj\Debug\DA1.csproj.CoreCompileInputs.cache
+D:\SQL2019\DA1\DA1\obj\Debug\DA1.exe
+D:\SQL2019\DA1\DA1\obj\Debug\DA1.pdb
+D:\SQL2019\DA1\DA1\bin\Debug\DA1.exe
+D:\SQL2019\DA1\DA1\bin\Debug\DA1.pdb
+C:\Users\ASUS\OneDrive\Máy tính\DA1\DA1\bin\Debug\DA1.exe
+C:\Users\ASUS\OneDrive\Máy tính\DA1\DA1\bin\Debug\DA1.pdb
+C:\Users\ASUS\OneDrive\Máy tính\DA1\DA1\obj\Debug\DA1.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\DA1\DA1\obj\Debug\DA1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\DA1\DA1\obj\Debug\DA1.exe
+C:\Users\ASUS\OneDrive\Máy tính\DA1\DA1\obj\Debug\DA1.pdb
